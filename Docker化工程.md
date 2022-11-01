@@ -18,7 +18,7 @@ docker tag remote-jobs:1.0.0 coderdream/remote-jobs:1.0.0
 ### 推送命令
 
 ```
-docker run -p 49162:8080 -d coderdream/remote-jobs:1.0.0
+docker push coderdream/remote-jobs:1.0.0
 ```
 
 ### 本地使用
