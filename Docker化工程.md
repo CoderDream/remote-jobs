@@ -31,7 +31,7 @@ docker run -p 49162:8080 -d coderdream/remote-jobs:1.0.0
 
 #### 部署
 
-![image-20221101174401791](assets\image-20221101174401791.png)
+![image-20221101174401791](https://raw.githubusercontent.com/CoderDream/remote-jobs/main/assets/image-20221101174401791.png)
 
 #### 访问
 
@@ -39,8 +39,7 @@ docker run -p 49162:8080 -d coderdream/remote-jobs:1.0.0
 http://192.168.3.4:49162/
 ```
 
-![image-20221101174555572](assets\image-20221101174555572.png)
+![image-20221101174555572](https://raw.githubusercontent.com/CoderDream/remote-jobs/main/assets/image-20221101174555572.png)
 
 
 
-# END
